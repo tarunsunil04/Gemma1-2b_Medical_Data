@@ -4,4 +4,4 @@ DATASET : https://huggingface.co/datasets/FreedomIntelligence/Medical-R1-Distill
 
 MODEL CARD : https://huggingface.co/google/gemma-1.1-2b-it 
 
-(probably helps that be base model was designned for chat-like responses anyway.)
+(probably helps that the base model used was designed for chat-like responses anyway.)
